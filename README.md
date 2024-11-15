@@ -8,6 +8,10 @@
 - 🎓 &nbsp; 热爱编程和数据共享，是一名地图学与地理信息系统的研究生。
 - 🌱 &nbsp; 目前的研究方向是地理大数据，对于NLP和GNN有一定的了解。
 
+<div align="left">
+    👉 <a href="https://blog.csdn.net/weixin_48857697"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;<a href="https://www.xiaohongshu.com/user/profile/611f08ce00000000010046a3"><img src="https://img.shields.io/badge/XHS-小红书-c32136" /></a>&emsp;
+</div>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
