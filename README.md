@@ -1,7 +1,5 @@
 <h2> 🙋 &nbsp;Hello</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/你的用户名/count.svg)
-
 <h3> ✍ &nbsp;About me</h3>
 
 - 🤔 &nbsp; 嗨，我是GISer2000。
@@ -14,27 +12,14 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=99ff99)
-  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
-- 🖥 &nbsp;
-  ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=ArcGIS)
-  ![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=QGIS)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+| 分类 | 技术 |
+|:---:|:---:|
+| 💻 编程语言 | ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) |
+| 🌐 Web 技术 | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) |
+| 🛢 数据库 | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) |
+| ⚙️ 工具 | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) |
+| 🔧 开发环境 | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC) ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=99ff99) ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter) |
+| 🗺 地理信息软件 | ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=ArcGIS) ![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=QGIS) ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator) |
  
 <br/>
 
