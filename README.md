@@ -1,6 +1,6 @@
 <h2> 🙋 &nbsp;Hello</h2>
 
-<img src="https://profile-counter.glitch.me/GISer2000/count.svg" alt="Visitor Count">
+![Visitor Count](https://profile-counter.glitch.me/你的用户名/count.svg)
 
 <h3> ✍ &nbsp;About me</h3>
 
